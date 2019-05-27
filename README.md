@@ -2,6 +2,8 @@
 
 Based on the question, analyse what to reply back like: Person name, Location, date etc.
 
+# TO run the code:
+run main.py
 
 Referrence:
 [1] http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.193.1603&rep=rep1&type=pdf
